@@ -1,0 +1,36 @@
+body {
+    background-color: antiquewhite;
+    color: rgb(2, 34, 23);
+    margin: 0%;
+}
+
+#header {
+    text-align: center;
+}
+
+#header > div:first-child {
+    background-color: rgb(244, 247, 247);
+    color: rgb(29, 29, 27);
+    padding: 30px;
+}
+
+
+.content {
+    width: 80%;
+    max-width: 800%;
+    margin: 30px auto;
+    background-color: rgb(244, 247, 246);
+    padding: 30px;
+    text-align: center;
+}
+
+
+.content h2 {
+    color: rgb(5, 24, 18);
+    border-bottom: 2px solid;
+    padding-bottom: 5px;
+}
+.content h3 {
+    color: rgb(14, 12, 9);
+}
+
